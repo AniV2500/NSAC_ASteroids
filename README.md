@@ -1,9 +1,29 @@
-"Mission to Planet Earth: A Digital History
+We ASteroids are visualizing Earth through NASA's lenses, we aim to study the
+completed projects of NASA focusing on Earth and it's attributes.
+We are focusing on the major issue “Ozone layer depletion”
+Nasa launched it’s 6 satellites starting from the year 1991 to the recent 2004
+for studying the ozone hole in the atmosphere.
+Our motive is to mapping out the collected data for different satellites and
+comparing their factors and quantities.
+Below mention are its satellites, broadly focusing on atmosphere ,and noting
+the changes of Ozone layer.
+1. Aura
+2. NOAA-N Prime
+3. Van Allen Probes/Radiation Belt Storm Probes
+4. TDRS
+5. TOMS-EP
+6. Upper Atmosphere Radiation Satellite (UARS)
+7. Nimbus-4
+8. Echo1A
+9. Echo2
+10.TOMS-EP
+11.ADEOS I
+12.NOAA-9
+13.NOAA-11
+14.Cosmos45
+15.Cosmos92
 
-""The one day people care about the earth. The other 364 days they're too busy killing it""
-Do you feel motivated? while saying “Happy Earth Day”, because we don’t!
-
-So we ASteroids are going to visualize  Earth through NASA's lenses, we aim to study the completed projects of NASA focusing on Earth and it's attributes. Using Tableau and Python, we will import essential data sets and by the means of graphs we will plot multiple values against standard values to decipher trends, threats and possible reasons that affect life on Earth. Today such tools are more important than ever, as COVID-19 has limited access to classrooms and museums. Digital tools can also reach people who might never have an opportunity to visit NASA facilities. 
-Also, we will be representing stories about NASA’s Earth science enterprise using interactive digital tools which will be a reflection of our technical background and the ability to think like historians. Using text and images, we will portray bigger as well as smaller picture on how technology has brought us closer to the study of Earth and other astronomical bodies. With predictions we can also highlight what can be the need of future or how we can use Earth Science to eliminate threats or expand on hidden or lesser known artifacts. 
-Lastly, for discussion ASteroids would dive into the functioning of NASA, their documentation and their modus-operandi. Pitching the Project in such a way that even a beginner would love Earth Science, will remain our focus first step onwards.
-"
+We have collected the data ,below attached are few samples of our work, still
+a lot more comparison needs to be done using Tableau.
+We will be studying and will plot the required changing factors in
+atmosphere(specifically ozone layer). 
